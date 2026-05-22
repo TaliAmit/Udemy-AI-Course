@@ -1,1 +1,1 @@
-# Udemy-AI-Course
+# AI-Course
